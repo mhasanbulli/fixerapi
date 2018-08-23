@@ -1,3 +1,5 @@
+# fixerapi 0.1.6
+* Fixed an error caused by `ifelse()` due to attributes being stripped in `fixer_historical()`.
 
 # fixerapi 0.1.5.9000
 
